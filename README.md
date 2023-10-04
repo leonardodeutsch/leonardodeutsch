@@ -52,4 +52,4 @@ I love all kinds of videogames and there's a good chance you find me playing Lea
 
 ---
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodeutsch&show_icons=true&theme=vue&count_private=true)
+## ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodeutsch&show_icons=true&theme=vue&count_private=true)
