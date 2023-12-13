@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/leonardodeutsch/leonardodeutsch/main/header.gif">
 
 ## About Me
-Hey, I'm Leonardo Deutsch and I'm a Full Stack Developer based in the US. I have a passion for  building creative and innovative things. Some of my skills include HTML/CSS, JS/TS and React in the front-end, and Node.js, Express, MongoDB, MySQL in the back-end. I am also experienced using AWS for production deployment and stress testing.
+Hey, I'm Leonardo Deutsch and I'm a Full Stack Developer based in the US. I have a passion for  building creative and innovative things. Some of my skills include HTML/CSS, JS/TS and React in the front-end, and Java, Spring Boot, Hibernate, Node.js, Express, MongoDB, MySQL in the back-end. I am also experienced using AWS for production deployment and stress testing.
 <br>
 <br>
 I love all kinds of videogames and there's a good chance you find me playing ~~League of Legends~~ TFT!
